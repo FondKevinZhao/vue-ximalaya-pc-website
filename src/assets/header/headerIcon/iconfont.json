@@ -1,0 +1,72 @@
+{
+  "id": "2582769",
+  "name": "喜马拉雅头部",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1188466",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "14145145",
+      "name": "下",
+      "font_class": "xia",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "1018",
+      "name": "收音机",
+      "font_class": "shouyinji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7417077",
+      "name": "剪辑",
+      "font_class": "jianji",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7461255",
+      "name": "有声音",
+      "font_class": "youshengyin",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "9909262",
+      "name": "4-5客户端",
+      "font_class": "-kehuduan",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "11482371",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "14843454",
+      "name": "主播管理",
+      "font_class": "zhuboguanli",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "18514860",
+      "name": "创作者中心",
+      "font_class": "chuangzuozhezhongxin",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    }
+  ]
+}

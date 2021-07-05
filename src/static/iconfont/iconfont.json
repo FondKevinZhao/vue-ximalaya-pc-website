@@ -1,0 +1,23 @@
+{
+  "id": "2583535",
+  "name": "喜马拉雅",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11912228",
+      "name": "意见反馈-首页24*24",
+      "font_class": "yijianfankui1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8023814",
+      "name": "回到顶部",
+      "font_class": "huidaodingbu",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    }
+  ]
+}

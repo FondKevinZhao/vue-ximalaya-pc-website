@@ -1,0 +1,13 @@
+export { default as musicPlayer } from './musicPlayer';
+export { default as home } from './home.js';
+export { default as category } from './category';
+export { default as detail } from './detail';
+export { default as sign } from './sign';
+export { default as chapter } from './chapter';
+export { default as recommend } from './recommend';
+export { default as hotSearch } from './hotSearch';
+export { default as album } from './album';
+export { default as reader } from './reader';
+export { default as myList } from './myList';
+export { default as relate } from './relate';
+export { default as rankingList } from './rankingList';

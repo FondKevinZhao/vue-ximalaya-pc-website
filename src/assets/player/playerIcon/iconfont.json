@@ -1,0 +1,93 @@
+{
+  "id": "2584443",
+  "name": "喜马拉雅播放栏",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1526275",
+      "name": "锁 2",
+      "font_class": "fuguansuo",
+      "unicode": "e999",
+      "unicode_decimal": 59801
+    },
+    {
+      "icon_id": "21441399",
+      "name": "锁",
+      "font_class": "3suo",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "1024808",
+      "name": "后退",
+      "font_class": "houtui",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "1024810",
+      "name": "前进",
+      "font_class": "qianjin",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "1769930",
+      "name": "循环",
+      "font_class": "xunhuan",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "1901672",
+      "name": "关注",
+      "font_class": "fuguanzhu",
+      "unicode": "e997",
+      "unicode_decimal": 59799
+    },
+    {
+      "icon_id": "2418266",
+      "name": "下载",
+      "font_class": "fuxiazai",
+      "unicode": "e998",
+      "unicode_decimal": 59800
+    },
+    {
+      "icon_id": "7417089",
+      "name": "转发",
+      "font_class": "fuzhuanfa",
+      "unicode": "e996",
+      "unicode_decimal": 59798
+    },
+    {
+      "icon_id": "7461119",
+      "name": "播放列表",
+      "font_class": "bofangliebiao",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "7939959",
+      "name": "播放",
+      "font_class": "arrow-",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "8652830",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "16942388",
+      "name": "音量",
+      "font_class": "fuyinliang",
+      "unicode": "e995",
+      "unicode_decimal": 59797
+    }
+  ]
+}
